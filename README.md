@@ -40,5 +40,5 @@ We have buid the model with layers of
 
 After training the models in the chunk of epochs 10+3+3+3+5 we have generated the accuracy of 89.9 for test dataset.
  
-The best model gives the accuracy and f1 score as:
+The best model gives the accuracy and f1 score as: 90% and 0.90 for test case .
  
